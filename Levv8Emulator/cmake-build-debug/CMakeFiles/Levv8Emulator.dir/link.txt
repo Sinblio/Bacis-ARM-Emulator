@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Levv8Emulator.dir/main.c.o  -o Levv8Emulator 
